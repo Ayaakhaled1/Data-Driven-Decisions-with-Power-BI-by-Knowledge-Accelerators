@@ -1,0 +1,15 @@
+he assignment: Take a look at your dataset in the Model view. Share an image or screenshot of the view via upload.
+
+Once you have shared an image of your dataset in Model view, write your responses to the following prompts in the submission field:
+
+What are the relationships, or joining fields, that exist? 
+
+What are the Field options?
+
+How might you manipulate the data to learn more? For example:
+
+  Are you able to edit or delete relationships to create visualizations? 
+
+  How about using the cardinality drop-down to determine which joining fields have unique or multiple instances per value?
+
+  Are there any other ways you can experiment with the data to create accurate visualizations or extract useful data about existing relationships?
